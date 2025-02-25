@@ -21,4 +21,4 @@ Sempre vou estar disposto a aprender e evoluir tanto profissionalmente, como pes
   <img align="center" alt="Bruno-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/bru3414/bru3414/blob/output/github-contribution-grid-snake.svg)
