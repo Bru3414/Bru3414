@@ -7,6 +7,10 @@ A partir daí comecei a me aprofundar na área da programação e fui cada vez m
 Tenho proficiência em React, Typescript, react-redux, styled-components, Java, SQL, NoSQL, AWS
 Sempre vou estar disposto a aprender e evoluir tanto profissionalmente, como pessoalmente, para concluir os meus objetivos
 
+### Contato
+
+Email: bruno3414.dambroski@gmail.com
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bru3414&layout=compact)](https://github.com/bru3414/github-readme-stats)
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=bru3414&show_icons=true&theme=dracula)
