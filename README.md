@@ -1,11 +1,12 @@
 ### Seja bem vindo ao meu Github!
 
-Olá, me chamo Bruno Dambroski e vou contar um pouco sobre mim.
+Olá, meu nome é Bruno Dambroski e gostaria de compartilhar um pouco da minha trajetória.
 
-Desde pequeno os jogos eletrônicos chamavam a minha atenção e fiquei curioso para saber como eram criados, no caso, programados.
-A partir daí comecei a me aprofundar na área da programação e fui cada vez mais adquirindo conhecimento e atualmente sou um Desenvolvedor Full Stack Java.
-Tenho proficiência em React, Typescript, react-redux, styled-components, Java, SQL, NoSQL, AWS
-Sempre vou estar disposto a aprender e evoluir tanto profissionalmente, como pessoalmente, para concluir os meus objetivos
+Desde a infância, sempre fui fascinado por jogos eletrônicos, o que despertou minha curiosidade sobre o funcionamento e desenvolvimento dessas tecnologias. Essa paixão me levou a mergulhar no universo da programação, onde venho, desde então, expandindo meus conhecimentos de forma contínua.
+
+Atualmente, atuo como Desenvolvedor Full Stack com foco em Java, com proficiência em tecnologias como React, Typescript, React-Redux, Styled-Components, Java, Spring boot, Hibernate, Spring security, JWT, SQL, NoSQL e AWS.
+
+Sou movido pela busca constante de aprendizado e evolução, tanto profissional quanto pessoalmente, e estou sempre comprometido em superar desafios e atingir meus objetivos com excelência.
 
 ### Contato
 
